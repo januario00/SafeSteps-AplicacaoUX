@@ -1,11 +1,16 @@
+SafeSteps – Aplicando UX
+Este é um pacote de código do projeto SafeSteps – Aplicando UX.
+O projeto original está disponível em: Figma – SafeSteps-AplicandoUX
+.
+Como executar o código
+Execute o comando:
 
-  # SafeSteps-AplicandoUX
+npm i
 
-  This is a code bundle for SafeSteps-AplicandoUX. The original project is available at https://www.figma.com/design/PLIF0lzshNqbVepEyLJTuv/SafeSteps-AplicandoUX.
+para instalar as dependências do projeto.
+Em seguida, execute:
 
-  ## Running the code
+npm run dev
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+para iniciar o servidor de desenvolvimento.
   
