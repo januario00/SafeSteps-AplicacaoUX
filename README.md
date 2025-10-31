@@ -37,5 +37,22 @@ ODS secundárias relacionadas:
 - **Radix UI**  
 - **Lucide React (ícones)**  
 
+
 Essas ferramentas foram escolhidas por sua performance e capacidade de criar interfaces modernas e acessíveis.
 ---
+
+Requisitos
+
+Antes de rodar o projeto, certifique-se de ter instalado:
+
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)
+- [npm](https://www.npmjs.com/) (vem junto com o Node)
+- [Visual Studio Code](https://code.visualstudio.com/) (opcional, mas recomendado)
+
+🧩 Comandos úteis
+
+| Comando | Descrição |
+|----------|------------|
+| `npm install` | Instala todas as dependências do projeto listadas no `package.json` |
+| `npm run dev` | Inicia o servidor local de desenvolvimento (geralmente em `http://localhost:5173/`) |
+| `npm run build` | Gera uma versão otimizada do projeto para produção |
